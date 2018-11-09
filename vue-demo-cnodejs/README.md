@@ -8,7 +8,7 @@ npm i
 ```
 > 补充结束
  [直接看原文主人GitHub](https://github.com/fengcms/vue-demo-cnodejs)
-以下为我写的博文：
+以下为我学vue2参考的的博文，非常感谢博主热心提供的详细指导博文，还有具体开发例子。内容简介明了，都是干货，很不错的教学指南，推荐想要入门vue2的伙伴去看看：
 
 1. [Vue2+VueRouter2+Webpack+Axios 构建项目实战2017重制版（一）基础知识概述](http://blog.csdn.net/fungleo/article/details/77575077)
 2. [Vue2+VueRouter2+Webpack+Axios 构建项目实战2017重制版（二）安装 nodejs 环境以及 vue-cli 构建初始项目](http://blog.csdn.net/fungleo/article/details/77584701)
